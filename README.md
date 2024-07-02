@@ -6,7 +6,7 @@
 Fraudulent activities in financial transactions pose significant challenges. Detecting and preventing fraud is crucial for maintaining trust and security in online transactions. This project leverages machine learning techniques, specifically the RandomForestClassifier algorithm, to develop a robust fraud detection system.
 
 ## Dataset
-The dataset used for this project is sourced from [fraudTest.csv](/content/fraudTest.csv). It contains various features related to credit card transactions.
+The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/datasets/kartik2112/fraud-detection). It contains various features related to credit card transactions.
 
 ## Data Preprocessing
 - **Data Cleaning:** Null values are removed from both training and test datasets.
